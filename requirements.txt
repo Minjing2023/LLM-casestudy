@@ -121,7 +121,7 @@ ply==3.11
 prometheus-client==0.19.0
 prompt-toolkit==3.0.41
 propcache==0.2.0
-protobuf==4.25.3
+protobuf>=3.12,<4
 psutil==5.9.6
 ptyprocess==0.7.0
 pure-eval==0.2.2
